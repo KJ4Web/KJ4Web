@@ -62,6 +62,12 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+## 👨🏻‍💻 Contributions
+<div align="center">
+    
+  ![snake gif](https://github.com/KJ4Web/KJ4Web/blob/output/github-snake-dark.svg)
+</div>
+
 ## 📈 GitHub Statistics
 <div align="center">
  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -74,10 +80,4 @@ As a web developer, I enjoy using my obsessive attention to detail, my unequivoc
 </div>
 <div align="center">
  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=KJ4Web&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats"/>
-</div>
-
-## 👨🏻‍💻 Contributions
-<div align="center">
-    
-  ![snake gif](https://github.com/KJ4Web/KJ4Web/blob/output/github-snake-dark.svg)
 </div>
